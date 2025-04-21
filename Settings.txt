@@ -1,2 +1,0 @@
-Resolution: 1600 * 900
-Fixed Window
